@@ -1,0 +1,15 @@
+#yona{
+    
+
+}
+#pyo{
+    background-color: rgb(238, 178, 211);
+    width: 50rem;
+    height: 40rem;
+    align-items: center;
+}
+table {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-collapse: collapse;
+}
