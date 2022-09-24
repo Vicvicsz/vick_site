@@ -1,14 +1,12 @@
 #yona{
-
     height: auto;
-
-
 }
 #pyo{
     background-color: rgb(238, 178, 211);
     width: 50%;
     height: 40%;
-    align-items: baseline;
+    align-items: baseline; 
+    margin-left: 400px;
 
 }
 table {
@@ -20,4 +18,7 @@ table {
     margin-left: 70px;
     width: 30%;
     height: 20px;
+}
+body{
+    background-color: rgb(247, 248, 176);
 }
