@@ -59,21 +59,6 @@
     justify-content: center;
     align-items: center;
  }
- .home-block{
-    width: 95%;
-    height: 95%;
-    background: rgba(0, 0, 0, 0.05);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: rgb(247, 248, 176);
- }
- .card{
-    width: 350px;
-    height: 500px;
-    align-items: center;
-
- }
 .tit{
    font-family: cursive;
 }
@@ -85,6 +70,7 @@
    margin-top: 100vh;
    background-color: #CF2853;
    height: 30%;
+   position: relative;
    
 }
 h4{
