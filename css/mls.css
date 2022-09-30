@@ -6,7 +6,6 @@
     font-size: small;
 }
 header ul li a{
-    text-decoration: none;
     color: #000;
     padding: 20px 15px;
     transition: all .2s;
@@ -18,4 +17,9 @@ header ul li a:hover{
  @font-face {
     font-family: "Navivi";
     src: url(../font/To\ Japan.ttf);
+}
+.baba{
+    background-color: blueviolet;
+    height: 40vh;
+    position: relative;
 }
