@@ -1,7 +1,10 @@
 #img1{
-    margin-left: 40%;
-    margin-right: 40%;
-    width: 20vw;
-    height: 80%;
+    width: 40vw;
  }
+ .container{
+    display: flex;
+    align-items: center;
+    font-size: medium;
+ }
+
  
