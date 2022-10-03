@@ -3,6 +3,7 @@
     background-image: radial-gradient(circle at 12.5% 12.5%, #ffa9df 0, #ffa0e6 10%, #ff96ec 20%, #ff8cf3 30%, #ff83f9 40%, #e77bff 50%, #c975ff 60%, #a472ff 70%, #7572ff 80%, #0b73ff 90%, #0075ff 100%);
     margin-left: 20vw;
     margin-right: 20vw;
+    border-radius: 2%;
 }
 #gifu{
     margin-left: 9vw;

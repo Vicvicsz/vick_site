@@ -1,10 +1,14 @@
 #img1{
     width: 40vw;
  }
- .container{
+ .oi{
     display: flex;
     align-items: center;
     font-size: medium;
+    text-decoration: underline;
+    text-align: end;
  }
-
+#ti{
+    text-align: center;
+}
  
