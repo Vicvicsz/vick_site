@@ -1,9 +1,9 @@
 .card{
-    width: 30vw;        
+    width: 40vw;    
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    margin-left: 25vw;
-    margin-right: 25vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
     
 }
       
