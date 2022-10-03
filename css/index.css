@@ -1,5 +1,5 @@
 #img1{
-    width: 40vw;
+    width: 30vw;
  }
  .oi{
     display: flex;
@@ -17,7 +17,7 @@
     margin-right: 10vw;
 }
 #gifer{
-    width: 40vw;
-    margin-left: 10vw;
-    margin-right: 10vw;
+    width: 30vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
 }
